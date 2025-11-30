@@ -2,7 +2,7 @@
 Survival overhaul datapack for Minecraft Java Edition 1.21.5
 
 Important! - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only use for debug purposes.
-\nNote - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
+  Note - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
 
 Features:
   - More biome placed features, refurbished biomes and structures as well as new structures
