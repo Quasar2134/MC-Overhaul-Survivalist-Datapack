@@ -1,2 +1,20 @@
 # MC-Overhaul-Survivalist-Datapack
-Minecraft survival overhaul datapack
+Survival overhaul datapack for Minecraft Java Edition 1.21.5
+
+Important! - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only use for debug purposes.
+Note - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
+
+Features:
+  - More biome placed features, refurbished biomes and structures as well as new structures
+  - 3 new advancement tabs representing compendiums to unlock with lore and brief descriptions for each entry
+  - More mobs now have non-zero knockback resistance
+  - Improved recipes
+  Reworked mechanics and loads new subtle details either increasing survival difficulty or improving
+    - New hydration system that leads to death if not taken care of, swim through freshwater or fill water bottles to replenish
+    - TNT is more volatile and most explosions create chain reactions
+    - Sleeping now passes time on status effect
+    - Many items are now immune to fire and or lava and or explosions
+    - Swords can block most attacks, but not explosions or projectiles
+    - Some items change when subject to lava, fire or water
+    - Improved falling block physics with destructive effects
+    - Elytra can be dismounted in survival mode by sneaking
