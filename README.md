@@ -4,6 +4,7 @@ Survival overhaul datapack for Minecraft Java Edition 1.21.5
 
 Installation:
 1) Download datapack.zip and resourcepack.zip and extract both
+2) In the Minecraft launcher click on 'Installations', then click on the folder icon to the right of the version, 1.21.5.
 3) Move the folder, MC Overhaul Survivalist, from the extracted resource pack zip file into .minecraft/resourcepacks .
 4) In the main menu, navigate to Options -> Resource Packs... then select, MC Overhaul Survivalist
 5) In the world creation menu, navigate to More -> Data Packs -> Open Pack Folder which will open a temporary folder for buffering the datapack. Move the folder, MC Overhaul Survivalist, from the extracted datapack file into the temp folder.
