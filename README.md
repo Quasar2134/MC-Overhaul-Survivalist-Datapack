@@ -4,10 +4,13 @@ Survival overhaul datapack for Minecraft Java Edition 1.21.5
 
 Installation:
 1) Download datapack.zip and resourcepack.zip and extract both
-2) In the world creation menu, navigate to More -> Data Packs -> Open Pack Folder which will open a temporary folder for buffering the datapack. Move the folder, MC Overhaul Survivalist, from the extracted datapack file into the temp folder.
+3) Move the folder, MC Overhaul Survivalist, from the extracted resource pack zip file into .minecraft/resourcepacks .
+4) In the main menu, navigate to Options -> Resource Packs... then select, MC Overhaul Survivalist
+5) In the world creation menu, navigate to More -> Data Packs -> Open Pack Folder which will open a temporary folder for buffering the datapack. Move the folder, MC Overhaul Survivalist, from the extracted datapack file into the temp folder.
+6) World can then be created.
 
 Important!:
-- Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only use for debug purposes.
+- Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only used for debug purposes.
 
 Note:
 - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
