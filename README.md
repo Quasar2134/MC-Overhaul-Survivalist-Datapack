@@ -1,9 +1,16 @@
 # MC-Overhaul-Survivalist-Datapack
 Survival overhaul datapack for Minecraft Java Edition 1.21.5
 
-Important! - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only use for debug purposes.
 
-Note - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
+Installation:
+1) Download datapack.zip and extract 
+- In the world creation menu, navigate to More -> Data Packs -> Open Pack Folder which will open a temporary folder for buffering the datapack
+
+Important!:
+- Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only use for debug purposes.
+
+Note:
+- Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
 
 Features:
   - More biome placed features, refurbished biomes and structures as well as new structures
