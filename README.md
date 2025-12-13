@@ -18,14 +18,16 @@ Note:
 
 Features:
   - More biome placed features, refurbished biomes and structures as well as new structures
+  - 2 new overworld biomes
+  - 4 new structures
   - 3 new advancement tabs representing compendiums to unlock with lore and brief descriptions for each entry
   - More mobs now have non-zero knockback resistance
   - Improved recipes
-  - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish
+  - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance will also stop hydration drain.
   - TNT is more volatile and most explosions create chain reactions
   - Sleeping now passes time on status effects
-  - Many items are now immune to fire and or lava and or explosions
-  - Swords can block most attacks, but not explosions or projectiles
-  - Some items change when subject to lava, fire or water
+  - Many items are now immune to fire and some are immune to lava and or explosions
+  - Swords can block most attacks (except for wooden and stone) with smaller delay frames than a shield, but not explosions or projectiles
+  - Some items change or get destroyed when subject to lava, fire or water
   - Improved falling block physics with destructive effects
-  - Elytra can be dismounted in survival mode by sneaking
+  - Elytra can be de-activated in survival mode by sneaking
