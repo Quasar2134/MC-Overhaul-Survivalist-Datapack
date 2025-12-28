@@ -29,6 +29,7 @@ Features:
   - Improved recipes
   - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance effect will also stop hydration drain.
   - TNT is more volatile and most explosions create chain reactions
+    - tntExplodes gamerule will stop regular tnt from exploding as well as remove all explosion volatility and chain reactions
   - Sleeping now passes time on status effects
   - Many items are now immune to fire and some are immune to lava and or explosions
   - Swords can block most attacks (except for wooden and stone) with a smaller delay frame than a shield, but not explosions or projectiles
