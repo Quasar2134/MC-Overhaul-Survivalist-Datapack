@@ -12,7 +12,7 @@ Installation:
 
 Important!:
 - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only used for debug purposes.
-- Some items can be destroyed when handheld, worn as armour or dropped when submerged, but not when in any other inventory slot (be careful when looting shipwrecks!)
+- Some items can be destroyed when handheld, worn as armour or dropped when submerged in fluids, but not when in any other inventory slot (be careful when looting shipwrecks!)
 
 Note:
 - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
