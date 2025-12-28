@@ -12,6 +12,7 @@ Installation:
 
 Important!:
 - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only used for debug purposes.
+- Some items can be destroyed when handheld, worn as armour or dropped when submerged, but not when in any other inventory slot (be careful when looting shipwrecks!)
 
 Note:
 - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
@@ -21,6 +22,9 @@ Features:
   - 3 new overworld biomes
   - 4 new structures
   - 3 new advancement tabs representing compendiums to unlock with lore and brief descriptions for each entry
+    - Biomes are unlocked when entering the respective biome, but in the overworld the sky must be seen
+    - Structures are unlocked when entering the respective structure
+    - Mobs are unlocked by completing certain tasks/challenges as well as looking at them through a spyglass
   - More mobs now have non-zero knockback resistance
   - Improved recipes
   - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance effect will also stop hydration drain.
@@ -29,9 +33,9 @@ Features:
   - Many items are now immune to fire and some are immune to lava and or explosions
   - Swords can block most attacks (except for wooden and stone) with a smaller delay frame than a shield, but not explosions or projectiles
   - Some items change or get destroyed when subject to lava, fire or water
-    - Paper, Sugar, Maps, etc are dissolved in water/destroyed (be careful when looting shipwrecks!)
-    - Bowls of soup lose their soup underwater
-    - Sponges are converted to wet sponges when held underwater
-    - Carying bee hives/nests underwater will force the bees out
+    - Paper, Sugar, Maps, etc are dissolved in water
+    - Bowls of soup/stew lose their food underwater
+    - Sponges are converted to wet sponges when underwater
+    - Bee hives/nests will force the bees out when underwater
   - Improved falling block physics with destructive effects
   - Elytra can be de-activated in survival mode by sneaking
