@@ -27,9 +27,11 @@ Features:
   - TNT is more volatile and most explosions create chain reactions
   - Sleeping now passes time on status effects
   - Many items are now immune to fire and some are immune to lava and or explosions
-  - Swords can block most attacks (except for wooden and stone), but not explosions or projectiles, with a smaller delay frame than a shield
+  - Swords can block most attacks (except for wooden and stone) with a smaller delay frame than a shield, but not explosions or projectiles
   - Some items change or get destroyed when subject to lava, fire or water
     - Paper, Sugar, Maps, etc are dissolved in water/destroyed (be careful when looting shipwrecks!)
+    - Bowls of soup lose their soup underwater
+    - Sponges are converted to wet sponges when held underwater
     - Carying bee hives/nests underwater will force the bees out
   - Improved falling block physics with destructive effects
   - Elytra can be de-activated in survival mode by sneaking
