@@ -20,7 +20,7 @@ Features:
   - 3 new overworld biomes
   - 4 new structures
   - 3 new advancement tabs representing compendiums to unlock with lore and brief descriptions for each entry
-    - Biomes are unlocked when entering the respective biome, but in the overworld the sky must be seen
+    - Biomes are unlocked when entering the respective biome on solid ground, but in the overworld and end the sky must be seen
     - Structures are unlocked when entering the respective structure
     - Mobs are unlocked by completing certain tasks/challenges as well as looking at them through a spyglass
   - More mobs now have non-zero knockback resistance
