@@ -32,7 +32,7 @@ Features:
   - Many items are now immune to fire and some are immune to lava and or explosions
   - Swords can block most attacks (except for wooden and stone) with a smaller delay frame than a shield, but not explosions or projectiles
   - Some items change or get destroyed when subject to lava, fire or water
-    - Paper, Sugar, Maps, etc are dissolved in water
+    - Sugar, Gunpowder, etc are dissolved in water
     - Bowls of soup/stew lose their food underwater
     - Sponges are converted to wet sponges when underwater
     - Bee hives/nests will force the bees out when underwater
