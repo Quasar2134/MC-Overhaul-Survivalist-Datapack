@@ -17,7 +17,7 @@ Important!:
 - doDaylightCycle and doLimitedCrafting gamerules are set on reload, pointless adjusting these manually.
 
 Features:
-  - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance effect will also stop hydration drain.
+  - New hydration system that leads to death if not taken care of. Submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance effect will also stop hydration drain.
   - The daylight cycle now lasts for an hour
   - Some items change or get destroyed when subject to lava, fire or water
     - Sugar, Gunpowder, etc are dissolved in water
