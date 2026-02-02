@@ -14,9 +14,11 @@ Important!:
 - Don't invoke mc_overhaul:hard_reset function (resets every advancement and reloads the server). Only used for debug purposes.
 - Some items can be destroyed when handheld, worn as armour or dropped when submerged in fluids, but not when in any other inventory slot (be careful when looting shipwrecks!)
 - Items taken from the creative inventory won't have the components stated in the features below (they must be obtained naturally)
+- doDaylightCycle and doLimitedCrafting gamerules are set on reload, pointless adjusting these manually.
 
 Features:
   - New hydration system that leads to death if not taken care of, submerge into freshwater, fill water bottles or eat certain foods to replenish. Fire resistance effect will also stop hydration drain.
+  - The daylight cycle now lasts for an hour
   - Some items change or get destroyed when subject to lava, fire or water
     - Sugar, Gunpowder, etc are dissolved in water
     - Bowls of soup/stew lose their food underwater
@@ -25,6 +27,11 @@ Features:
   - Improved falling block physics with destructive effects
   - Elytra can be de-activated in survival mode by sneaking
   - Improved recipes
+    - Banner patterns return the special ingredient
+    - Some recipes are "hidden". Like other recipes they only work if the pattern is correct, but never appear in the knowledge book, cannot be crafted by a crafter and if some of the wrong items are used, the ingredients will still be consumed
+    - Reworked smithing table
+      - Items like iron bars, iron armor, etc are crafted at a smithing table using a cast, crucible and water bucket.
+      - Casts and the crucible are initially made at a crafting table, then thrown on top of a furnace to kiln.
   - TNT is more volatile and most explosions create chain reactions
     - Gamerule, tntExplodes=false will stop regular tnt from exploding as well as remove all explosion volatility and chain reactions
   - Sleeping now passes time on status effects
